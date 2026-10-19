@@ -3,10 +3,12 @@
 
 **SQL | Python | Data Analytics | Financial Crime Risk**
 
+
 ## Dashboard Preview
 
 ![AML Transaction Monitoring Dashboard](aml_dashboard.png)
 
+*An overview of synthetic transaction monitoring, alert patterns, KYC risk distribution and documentation gaps.*
 
 ## Overview
 
