@@ -3,6 +3,11 @@
 
 **SQL | Python | Data Analytics | Financial Crime Risk**
 
+## Dashboard Preview
+
+![AML Transaction Monitoring Dashboard](aml_dashboard.png)
+
+
 ## Overview
 
 This project explores a data-driven approach to Anti-Money Laundering (AML) transaction monitoring using synthetic customer and transaction data. It applies SQL-based screening rules to flag potentially suspicious transaction patterns, examine exposure to higher-risk jurisdictions, and identify gaps in Know Your Customer (KYC) documentation.
