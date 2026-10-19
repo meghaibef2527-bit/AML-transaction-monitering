@@ -7,7 +7,7 @@
 
 ## Dashboard Preview
 
-![AML Transaction Monitoring Dashboard](aml_dashboard.png)
+AML Transaction Monitoring Dashboard.png
 
 *Dashboard illustrating synthetic transaction monitoring, alert patterns, KYC risk distribution, documentation gaps and counterparty exposure.*
 
