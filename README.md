@@ -7,7 +7,7 @@
 
 ## Dashboard Preview
 
-![AML Transaction Monitoring Dashboard](aml_dashboard.png)
+![AML Transaction Monitoring Dashboard](AML Transaction Monitoring Dashboard.png)
 
 *AML transaction monitoring dashboard illustrating synthetic transaction patterns, rule-based alerts, KYC risk distribution and documentation gaps.*
 
