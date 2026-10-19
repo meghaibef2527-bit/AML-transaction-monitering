@@ -3,16 +3,15 @@
 
 **SQL | Python | Data Analytics | Financial Crime Risk**
 
-
-
 ## Dashboard Preview
 
-![AML Transaction Monitoring Dashboard](AML Transaction Monitoring Dashboard.png)
+<p align="center">
+  <img src="AML%20Transaction%20Monitoring%20Dashboard.png" alt="AML Transaction Monitoring Risk Analytics Dashboard" width="100%">
+</p>
 
-*AML transaction monitoring dashboard illustrating synthetic transaction patterns, rule-based alerts, KYC risk distribution and documentation gaps.*
+*Professional AML risk analytics dashboard built using synthetic transaction data. It presents transaction monitoring KPIs, alert patterns, KYC risk distribution, documentation gaps, transaction trends and high-risk jurisdiction exposure.*
 
-
-*An overview of synthetic transaction monitoring, alert patterns, KYC risk distribution and documentation gaps.*
+> **Note:** All data is synthetic and for demonstration purposes only. The results do not represent actual financial transactions or confirmed financial crime.
 
 ## Overview
 
